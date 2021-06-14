@@ -1,3 +1,4 @@
+```java
 package responsibilitychain;
 
 //职责链模式
@@ -23,3 +24,9 @@ public class Client {
 
     }
 }
+
+
+
+```
+![原理图](image/responsibilitychain_1.png)
+![原理图](image/responsibilitychain_2.png)

@@ -13,5 +13,9 @@ public class Client {
         System.out.println(sheep);
         System.out.println(sheep1);
         System.out.println(sheep2);
+        System.out.println("---------------");
+        System.out.println(sheep.hashCode());
+        System.out.println(sheep1.hashCode());
+        System.out.println(sheep2.hashCode());
     }
 }
